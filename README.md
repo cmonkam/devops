@@ -1,4 +1,2 @@
 # devops
-linux app
-learning
-style
+Devops is lovely
